@@ -17,5 +17,5 @@ body #wall #tag-3.slick.wicked {
 }
 
 body #wall .parent #tag-5.slick {
-  display: none;
+  display: hidden;
 }
